@@ -1,4 +1,9 @@
-### Hector Carrillo 👋
+# Welcome! 👋
+
+- 🏛 Computer Engineering student @ IPN-ESCOM (Mexico City).
+- 👨🏽‍💻 Working as a Backend Engineer @ Content-Oh. Prev @ Facebook (iOS Engineer) & Konfio (Data mining).
+- 🧠 Experience with AWS, cloud infra, database design and interaction, iOS (Objective-C), React and scripting among others.
+- 🤔 Interest in Machine Learning, Cloud, Software Architecture and Startups. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecarrillo&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
