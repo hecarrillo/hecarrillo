@@ -6,11 +6,15 @@
 - 🤔 Interest in Machine Learning, Cloud, Software Architecture and Startups. 
 
 # Links
-[<img src="https://user-images.githubusercontent.com/55115748/204431380-dcbb1371-1f79-42b4-ad9a-60d3beb7b60c.png" alt="drawing" width="40px"/>
-](https://www.linkedin.com/in/hecarrilloe/)
-[<img src="https://user-images.githubusercontent.com/55115748/204432672-9bdfe107-43bd-4028-93ed-2da0290256ea.png" width="40px"/>](https://hecarrillo.github.io/Portfolio/)
-[<img src="https://user-images.githubusercontent.com/55115748/204432614-07fc7316-414a-4515-ae2b-be5d7acada43.png" width="40px"/>](https://drive.google.com/drive/u/0/folders/1Txbp2UUpUGpFO-wO4C15e0tS2B-9OQ1i)
-
+<p align="center">
+<a href="https://hecarrillo.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-792DE4.svg?&style=for-the-badge&logo=react&logoColor=white" height=35 target="_blank" ></a>
+<a href="https://www.linkedin.com/in/hecarrilloe/"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35 target="_blank" ></a>
+<a href="https://www.instagram.com/carrillo.h/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35 target="_blank" ></a>
+<a href="https://www.instagram.com/carrillo.h/"><img src="https://img.shields.io/badge/resume-F4B400.svg?&style=for-the-badge&logo=googledrive&logoColor=white" height=35 target="_blank" ></a>
+</p>
+  
 # Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hecarrillo&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hecarrillo&layout=compact&langs_count=8"/> 
+</p>
 
