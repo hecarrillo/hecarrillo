@@ -1,6 +1,6 @@
 # About Me
 
-- 👨🏽‍💻 Working as a Backend Engineer @ Content-Oh. Prev @ Facebook (iOS Engineer) & Konfio (Data mining).
+- 👨🏽‍💻 Working as a Backend Engineer @ Content-Oh. Prev @ Facebook (iOS Engineer), Microsoft (Infra & Big Data), & Konfio (Data mining).
 - 🏛 Computer Engineering student @ IPN-ESCOM (Mexico City).
 - 🧠 Experience with AWS, cloud infra, databases, iOS (Objective-C), React and scripting among others.
 - 🤔 Interest in Machine Learning, Cloud, Software Architecture and Startups. 
