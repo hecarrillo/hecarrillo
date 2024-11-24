@@ -1,6 +1,6 @@
 # About Me
 
-- 👨🏽‍💻 Backend Engineer. Prev @ Facebook (iOS Engineer), Microsoft (Infra & Big Data), Konfio (Data mining) & startups creating founding infra.
+- 👨🏽‍💻 Backend Engineer (mostly). Prev @ Facebook (iOS Engineer), Microsoft (Infra & Big Data), Konfio (Data mining) & startups creating founding infra.
 - 🏛 Computer Engineering student @ IPN-ESCOM (Mexico City).
 - 🧠 Experience with AWS, cloud infra, databases, iOS (Objective-C), React and scripting among others.
 - 🤔 Interest in Machine Learning, Cloud, Software Architecture and Startups. 
